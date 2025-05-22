@@ -10,11 +10,11 @@
  - ### Copy & Run the Commands in Cloud Shell Terminal :
 
 ```
-curl -LO raw.githubusercontent.com/Titash-shil/Get-Started-with-Security-Command-Center-GSP1124/refs/heads/main/qwiklab_explorers_gsp1124.sh
+curl -LO raw.githubusercontent.com/Titash-shil/Cloud-Armor-Preconfigured-WAF-Rules-GSP879/refs/heads/main/qwiklab_explorers_gsp879.sh
 
-sudo chmod +x qwiklab_explorers_gsp1124.sh
+sudo chmod +x qwiklab_explorers_gsp879.sh
 
-./qwiklab_explorers_gsp1124.sh
+./qwiklab_explorers_gsp879.sh
 ```
 ---
 
