@@ -8,7 +8,9 @@
 ---
 
  - ### Copy & Run the Commands in Cloud Shell Terminal :
-
+```
+export ZONE=
+```
 ```
 curl -LO raw.githubusercontent.com/Titash-shil/Cloud-Armor-Preconfigured-WAF-Rules-GSP879/refs/heads/main/qwiklab_explorers_gsp879.sh
 
